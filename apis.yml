@@ -85,5 +85,3 @@ network:
     url: https://raw.githubusercontent.com/api-evangelist/ternary/refs/heads/main/apis.yml
   - name: Vantage
     url: https://raw.githubusercontent.com/api-evangelist/vantage/refs/heads/main/apis.yml
-  - name: Zesty
-    url: https://raw.githubusercontent.com/api-evangelist/zesty/refs/heads/main/apis.yml
