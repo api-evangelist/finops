@@ -1,0 +1,136 @@
+meta:
+  name: FinOps
+  description: FinOps is a cloud financial management discipline combining technology,
+    finance, and business practices to drive accountability and optimize cloud spending
+    through budget-aware execution and cost telemetry at runtime.
+  tags:
+  - Cloud Cost
+  - Cloud Financial Management
+  - FinOps
+  portal: null
+  github: null
+  repo: finops
+services_tools:
+- name: Amberflo
+  repo: https://github.com/api-evangelist/amberflo
+  apisio: https://providers.apis.io/providers/amberflo/
+- name: Amnic
+  repo: https://github.com/api-evangelist/amnic
+  apisio: https://providers.apis.io/providers/amnic/
+- name: Anodot
+  repo: https://github.com/api-evangelist/anodot
+  apisio: https://providers.apis.io/providers/anodot/
+- name: Apptio
+  repo: https://github.com/api-evangelist/apptio
+  apisio: https://providers.apis.io/providers/apptio/
+- name: CAST AI
+  repo: https://github.com/api-evangelist/cast-ai
+  apisio: https://providers.apis.io/providers/cast-ai/
+- name: Certero
+  repo: https://github.com/api-evangelist/certero
+  apisio: https://providers.apis.io/providers/certero/
+- name: Cloud Custodian
+  repo: https://github.com/api-evangelist/cloud-custodian
+  apisio: https://providers.apis.io/providers/cloud-custodian/
+- name: Cloudability
+  repo: https://github.com/api-evangelist/cloudability
+  apisio: https://providers.apis.io/providers/cloudability/
+- name: CloudChipr
+  repo: https://github.com/api-evangelist/cloudchipr
+  apisio: https://providers.apis.io/providers/cloudchipr/
+- name: CloudHealth
+  repo: https://github.com/api-evangelist/cloudhealth
+  apisio: https://providers.apis.io/providers/cloudhealth/
+- name: CloudZero
+  repo: https://github.com/api-evangelist/cloudzero
+  apisio: https://providers.apis.io/providers/cloudzero/
+- name: env0
+  repo: https://github.com/api-evangelist/env0
+  apisio: https://providers.apis.io/providers/env0/
+- name: FinOps Foundation
+  repo: https://github.com/api-evangelist/finops-foundation
+  apisio: https://providers.apis.io/providers/finops-foundation/
+- name: Finout
+  repo: https://github.com/api-evangelist/finout
+  apisio: https://providers.apis.io/providers/finout/
+- name: Flexera
+  repo: https://github.com/api-evangelist/flexera
+  apisio: https://providers.apis.io/providers/flexera/
+- name: FOCUS Spec
+  repo: https://github.com/api-evangelist/focus-spec
+  apisio: https://providers.apis.io/providers/focus-spec/
+- name: Harness Cloud Cost
+  repo: https://github.com/api-evangelist/harness-cloud-cost
+  apisio: https://providers.apis.io/providers/harness-cloud-cost/
+- name: Infracost
+  repo: https://github.com/api-evangelist/infracost
+  apisio: https://providers.apis.io/providers/infracost/
+- name: Komiser
+  repo: https://github.com/api-evangelist/komiser
+  apisio: https://providers.apis.io/providers/komiser/
+- name: Kubecost
+  repo: https://github.com/api-evangelist/kubecost
+  apisio: https://providers.apis.io/providers/kubecost/
+- name: Lago
+  repo: https://github.com/api-evangelist/lago
+  apisio: https://providers.apis.io/providers/lago/
+- name: m3ter
+  repo: https://github.com/api-evangelist/m3ter
+  apisio: https://providers.apis.io/providers/m3ter/
+- name: Metronome
+  repo: https://github.com/api-evangelist/metronome
+  apisio: https://providers.apis.io/providers/metronome/
+- name: Moesif
+  repo: https://github.com/api-evangelist/moesif
+  apisio: https://providers.apis.io/providers/moesif/
+- name: nOps
+  repo: https://github.com/api-evangelist/nops
+  apisio: https://providers.apis.io/providers/nops/
+- name: OpenCost
+  repo: https://github.com/api-evangelist/opencost
+  apisio: https://providers.apis.io/providers/opencost/
+- name: OptScale
+  repo: https://github.com/api-evangelist/optscale
+  apisio: https://providers.apis.io/providers/optscale/
+- name: Orb
+  repo: https://github.com/api-evangelist/orb
+  apisio: https://providers.apis.io/providers/orb/
+- name: PerfectScale
+  repo: https://github.com/api-evangelist/perfectscale
+  apisio: https://providers.apis.io/providers/perfectscale/
+- name: ProsperOps
+  repo: https://github.com/api-evangelist/prosperops
+  apisio: https://providers.apis.io/providers/prosperops/
+- name: ScaleOps
+  repo: https://github.com/api-evangelist/scaleops
+  apisio: https://providers.apis.io/providers/scaleops/
+- name: Scalr
+  repo: https://github.com/api-evangelist/scalr
+  apisio: https://providers.apis.io/providers/scalr/
+- name: Schematic
+  repo: https://github.com/api-evangelist/schematic
+  apisio: https://providers.apis.io/providers/schematic/
+- name: Sedai
+  repo: https://github.com/api-evangelist/sedai
+  apisio: https://providers.apis.io/providers/sedai/
+- name: Spacelift
+  repo: https://github.com/api-evangelist/spacelift
+  apisio: https://providers.apis.io/providers/spacelift/
+- name: Spot by NetApp
+  repo: https://github.com/api-evangelist/spot-by-netapp
+  apisio: https://providers.apis.io/providers/spot-by-netapp/
+- name: Stigg
+  repo: https://github.com/api-evangelist/stigg
+  apisio: https://providers.apis.io/providers/stigg/
+- name: StormForge
+  repo: https://github.com/api-evangelist/stormforge
+  apisio: https://providers.apis.io/providers/stormforge/
+- name: Ternary
+  repo: https://github.com/api-evangelist/ternary
+  apisio: https://providers.apis.io/providers/ternary/
+- name: Vantage
+  repo: https://github.com/api-evangelist/vantage
+  apisio: https://providers.apis.io/providers/vantage/
+features: []
+use_cases: []
+integrations: []
