@@ -5,7 +5,7 @@ description: >-
   finance, and business practices to drive accountability and optimize cloud
   spending through budget-aware execution and cost telemetry at runtime.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/finops/refs/heads/main/apis.yml
 created: '2025-01-01'
