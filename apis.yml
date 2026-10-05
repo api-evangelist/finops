@@ -1,5 +1,6 @@
 aid: finops
 name: FinOps
+kind: topic
 description: >-
   FinOps is a cloud financial management discipline combining technology,
   finance, and business practices to drive accountability and optimize cloud
