@@ -1,7 +1,7 @@
 ---
-title: 'Dogfooding at scale: migrating cdnjs to Cloudflare’s Developer Platform'
-link: https://blog.cloudflare.com/cdnjs-dev-platform-migration/
-published: '2026-07-30'
+title: How Cloudflare detects MCP traffic and helps secure it
+link: https://blog.cloudflare.com/mcp-security-updates/
+published: '2026-08-14'
 provider: cloudflare
 repo: https://github.com/api-evangelist/cloudflare
 domain: blog.cloudflare.com
