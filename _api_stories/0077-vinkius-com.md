@@ -1,7 +1,7 @@
 ---
-title: 'New Relic AI MCP: Real-Time LLM Observability & Cost Tracking'
-link: https://vinkius.com/new-relic-ai-llm-observability-mcp/
-published: '2026-07-09'
+title: GitHub MCP Server for AI-Driven Repository Management
+link: https://vinkius.com/github-mcp-server-for-ai-driven-repository-management/
+published: '2026-07-10'
 provider: vinkius-com
 repo: https://github.com/api-evangelist/vinkius-com
 domain: vinkius.com
