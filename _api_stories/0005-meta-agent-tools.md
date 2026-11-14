@@ -1,7 +1,7 @@
 ---
-title: 'mcp: Annalist Financial Statements'
-link: https://agentalog.com/api/listings/mcp_indices_url_annalist_fin_pages_dev_mcp_91ee40dd
-published: '2026-10-31'
+title: 'mcp: hotpath-cloud'
+link: https://agentalog.com/api/listings/mcp_rs_hotpath_hotpath_cloud_90440dbd
+published: '2026-11-07'
 provider: meta-agent-tools
 repo: https://github.com/api-evangelist/meta-agent-tools
 domain: agentalog.com
