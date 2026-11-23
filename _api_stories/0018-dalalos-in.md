@@ -1,5 +1,5 @@
 ---
-title: 'MCP for Indian company financial statements: sources and limits'
+title: MCP for Indian company financial statements
 link: https://dalalos.in/blog/mcp-indian-company-financial-statements
 published: '2026-11-01'
 provider: dalalos-in
